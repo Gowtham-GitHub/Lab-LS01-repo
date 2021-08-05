@@ -1,2 +1,4 @@
 first line added locally
 second line added from github remotely
+third line added to local master
+fourth line added to local branch
